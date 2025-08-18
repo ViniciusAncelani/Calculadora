@@ -9,3 +9,51 @@
     <title> Calculadora </title>
 </head>
 <body>
+
+<table>
+
+<p id="visor"></p>
+
+<tr>
+    <td colspan = "4"><input type="text" name="visor" id="visor"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td rowspan = "2"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+</table>
